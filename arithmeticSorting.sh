@@ -8,4 +8,4 @@ read -p "Enter Input 3 : " c
 #COMPUTATIONS
 result1=$(( $a+$b*$c ))
 result2=$(( $a*$b+$c ))
-result3=$(( $c+$a+$b ))
+result3=$(( $c+$a/$b ))
